@@ -1,1 +1,1 @@
-# BARCODE-GENERATION
+Generating barcodes using python
